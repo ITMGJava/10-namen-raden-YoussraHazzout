@@ -5,7 +5,7 @@ Definieer een array met 10 namen
 Vraag vervolgens de gebruiker om een naam in te typen
 Als de naam voorkomt, druk de naam en de positie in de lijst af en vraag opnieuw
 Als de naam niet is geraden, vraag opnieuw
-```shell
+```console
 Er zijn 10 namen in de lijst
 Raad welke naam in de lijst voorkomt:
 Klaas
